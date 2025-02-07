@@ -15,12 +15,12 @@ Welcome to **SushiDay**, a beautifully designed sushi-themed website created usi
 
 ## 📸 Preview
 ![SushiDay Preview](sushiday-screenshots/Screenshot-1.png)
-![SushiDay Preview](sushiday-screenshots/screenshot-2.png)
-![SushiDay Preview](sushiday-screenshots/screenshot-3.png)
-![SushiDay Preview](sushiday-screenshots/screenshot-4.png)
-![SushiDay Preview](sushiday-screenshots/screenshot-5.png)
-![SushiDay Preview](sushiday-screenshots/screenshot-6.png)
-![SushiDay Preview](sushiday-screenshots/screenshot-7.png)
+![SushiDay Preview](sushiday-screenshots/Screenshot-2.png)
+![SushiDay Preview](sushiday-screenshots/Screenshot-3.png)
+![SushiDay Preview](sushiday-screenshots/Screenshot-4.png)
+![SushiDay Preview](sushiday-screenshots/Screenshot-5.png)
+![SushiDay Preview](sushiday-screenshots/Screenshot-6.png)
+![SushiDay Preview](sushiday-screenshots/Screenshot-7.png)
 
 
 
